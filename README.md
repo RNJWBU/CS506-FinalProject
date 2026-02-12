@@ -1,5 +1,6 @@
 # CS506-FinalProject
 Description of Project:
+    
     Project Topic:
         This project is focused on identifying the key lifestyle contributors among college students that impact exam performance.
 
@@ -41,6 +42,7 @@ Description of Project:
             Assignment is due. If due at 11:59, ensure the presentation and the repo are updated with all information. Continue to practice presenting.
 
 Goals of the Project:
+    
     1. Identify key lifestyle contributors to university student exam performance (planning on creating a system to rank what has the greatest impact on student performance)
 
     2. Develop a unit scaling system in which student performance is explained by lifestyle factors (ex: X extra hours of sleep increases scoring by 1)
@@ -48,6 +50,7 @@ Goals of the Project:
     3. Present solutions to correct lifestyle choices to increase general student performances (while not measurable, this goal exists to give the project a purpose outside of schoolwork)
 
 Data Collection Plans:
+    
     Potential Data Sources:
         1. Kaggle: https://www.kaggle.com/datasets/lainguyn123/student-performance-factors
         
@@ -60,6 +63,7 @@ Data Collection Plans:
 
 
 Testing Plan:
+    
     1. The first kaggle will be the main source of training information, with a planned 80/20 split of training to testing data
 
     2. The second kaggle will be tested against the model developed by the first with the factors that are present in both datasets. With the possibility of training on some of the data if testing proves to be inaccurate
